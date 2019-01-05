@@ -1,6 +1,6 @@
 # pythonlearn
 
-A fork of csev/py4e.
+A fork from csev/py4e.
 
 Doing the course materials on https://www.py4e.com.
 
